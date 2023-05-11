@@ -1,0 +1,232 @@
+[
+    {
+        "código": "org.1",
+        "marco": "organizativo",
+        "área": "",
+        "descripción": "Política de seguridad",
+        "dimensión": ""
+    },
+    {
+        "código": "org.2",
+        "marco": "organizativo",
+        "área": "",
+        "descripción": "Normativa de seguridad",
+        "dimensión": ""
+    },
+    {
+        "código": "org.3",
+        "descripción": "Procedimientos de seguridad",
+        "marco": "organizativo",
+        "área": ""
+    },
+    {
+        "código": "org.4",
+        "descripción": "Proceso de autorización",
+        "marco": "organizativo",
+        "área": ""
+    },
+    {
+        "código": "op.pl.1",
+        "descripción": "Análisis de riesgos",
+        "marco": "operacional",
+        "área": "planificación"
+    },
+    {
+        "código": "op.pl.2",
+        "descripción": "Arquitecura de seguridad",
+        "marco": "operacional",
+        "área": "planificación"
+    },
+    {
+        "código": "op.pl.3",
+        "descripción": "Adquisición de nuevos componentes",
+        "marco": "operacional",
+        "área": "planificación"
+    },
+    {
+        "código": "op.pl.4",
+        "descripción": "Dimensionamiento y gestión de capacidad",
+        "marco": "operacional",
+        "área": "planificación"
+    },
+    {
+        "código": "op.pl.5",
+        "descripción": "Componentes certificados",
+        "marco": "operacional",
+        "área": "planificación"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.1",
+        "descripción": "Identificación"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.2",
+        "descripción": "Requisitos de acceso"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.3",
+        "descripción": "Segregación de funciones y tareas"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.4",
+        "descripción": "Proceso de gestión de derechos de acceso"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.5",
+        "descripción": "Mecanismo de autenticación (usuarios externos)"
+    },
+    {
+        "marco": "operacional",
+        "área": "Control de acceso",
+        "código": "op.acc.6",
+        "descripción": "Mecanismo de autenticación (usuarios de la organización)"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.1",
+        "descripción": "Inventario de activos"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.2",
+        "descripción": "Configuración de la seguridad"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.3",
+        "descripción": "Gestión de la configuración de la seguridad"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.4",
+        "descripción": "Mantenimiento y actualizaciones de seguridad"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.5",
+        "descripción": "Gestión de cambios"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.6",
+        "descripción": "Protección frente a código dañino"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.7",
+        "descripción": "Gestión de incidentes"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.8",
+        "descripción": "Registro de actividad"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.9",
+        "descripción": "Registro de la gestión de incidentes"
+    },
+    {
+        "marco": "operacional",
+        "área": "Explotación",
+        "código": "op.exp.10",
+        "descripción": "Protección de claves criptográficas"
+    },
+    {
+        "marco": "operacional",
+        "área": "Recursos externos",
+        "código": "op.ext.1",
+        "descripción": "Contratación y acuerdos de nivel de servicio"
+    },
+    {
+        "marco": "operacional",
+        "área": "Recursos externos",
+        "código": "op.ext.2",
+        "descripción": "Gestión diaria"
+    },
+    {
+        "marco": "operacional",
+        "área": "Recursos externos",
+        "código": "op.ext.3",
+        "descripción": "Protección de la cadena de suministro"
+    },
+    {
+        "marco": "operacional",
+        "área": "Servicios en la nube",
+        "código": "op.nub.1",
+        "descripción": "Protección de servicios en la nube"
+    },
+    {
+        "marco": "operacional",
+        "área": "Continuidad del servicio",
+        "código": "op.cont.1",
+        "descripción": "Análisis de impacto"
+    },
+    {
+        "marco": "operacional",
+        "área": "Continuidad del servicio",
+        "código": "op.cont.2",
+        "descripción": "Plan de continuidad"
+    },
+    {
+        "marco": "operacional",
+        "área": "Continuidad del servicio",
+        "código": "op.cont.3",
+        "descripción": "Pruebas periodicas"
+    },
+    {
+        "marco": "operacional",
+        "área": "Continuidad del servicio",
+        "código": "op.cont.4",
+        "descripción": "Medios alternativos"
+    },
+    {
+        "código": "op.mon.1",
+        "marco": "operacional",
+        "área": "Monitorización del sistemas",
+        "descripción": "Detección de intrusión"
+    },
+    {
+        "marco": "operacional",
+        "área": "Monitorización del sistema",
+        "código": "op.mon.2",
+        "descripción": "Sistema de métricas"
+    },
+    {
+        "marco": "operacional",
+        "área": "Monitorización del sistema",
+        "código": "op.mon.3",
+        "descripción": "Vigilancia"
+    },
+    {
+        "código": "mp.com.1",
+        "marco": "medidas de protección",
+        "área": "Medidas de protección",
+        "descripción": "Perímetro seguro",
+        "dimensión": "",
+        "aplica": false,
+        "grado implementación": "No implantado",
+        "nivel madurez": "Inexistente",
+        "aplicación": "",
+        "controles": ""
+    }
+]
